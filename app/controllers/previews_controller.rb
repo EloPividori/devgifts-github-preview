@@ -1,0 +1,2 @@
+class PreviewsController < ApplicationController
+end
